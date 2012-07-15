@@ -1,11 +1,14 @@
+luZerz
 lib-cov
 *.seed
 *.log
+BICHEZ
 *.csv
 *.dat
 *.out
 *.pid
 *.gz
+
 
 pids
 logs
