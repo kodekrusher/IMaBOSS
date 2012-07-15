@@ -1,0 +1,1 @@
+{ "name" : "kylefitzpatrick.ca", "description" : "my SITEZ b BOSS", "version" : "0.0.1", "dependencies" : { "connect" : "1.x.x" }, "engines": { "node" : "0.8.x", "npm" : "1.1.x" } }
